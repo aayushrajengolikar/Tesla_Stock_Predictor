@@ -1,23 +1,15 @@
-# Core ML libraries
 tensorflow==2.19.0
-keras==3.1.0
+keras>=3.5.0
 numpy==1.26.2
 pandas==2.1.0
 scikit-learn==1.3.2
-
-# For plotting & visualization (if used)
 matplotlib==3.8.0
 seaborn==0.12.2
-
-# Streamlit for deployment
 streamlit==1.29.0
-
-# Optional: for handling file uploads & Excel
 openpyxl==3.1.3
 xlrd==2.0.1
-
-# Other utilities
 joblib==1.3.2
 python-dateutil==2.8.2
+
 
 
